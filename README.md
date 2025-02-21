@@ -2,7 +2,7 @@
 
 
 ## Group Members:
-Lleyton Leonard
-Taylor Sharperson
-Mekhi Green
+Lleyton Leonard <br />
+Taylor Sharperson <br />
+Mekhi Green <br />
 Frances Mays
