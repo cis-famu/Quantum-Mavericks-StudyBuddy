@@ -1,1 +1,1 @@
-# Quantum-Mavericks-StudyBuddy
+# Quantum Mavericks: StudyBuddy
