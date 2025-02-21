@@ -10,7 +10,7 @@ Project Charter
 
 
 
-##SWOT Analysis
+## SWOT Analysis
 
 SWOT Analysis of StudyBuddy
 
@@ -32,7 +32,7 @@ Other app competitors: There are a lot of popular study apps that may cause our 
 Technical Issues: After first launching the app, there may be bugs and security issues that affect StudyBuddy.
 
 
-###Budget, Scope, & Time estimates
+### Budget, Scope, & Time estimates
 Scope & Time Estimate							
 Task	Time Estimate (in hours)	Start Date	End Date					
 1. Project Management (PM)	500	02/05/2025	4/21/2025					
@@ -62,6 +62,7 @@ Task	Time Estimate (in hours)	Start Date	End Date
 7. Post-Implementation	170	05/06/2026	7/6/2026					
 - 7.1 Performance Monitoring and Optimization	70	05/05/2026	6/8/2026					
 - 7.2 Issue Resolution and Support	100	06/09/2026	7/6/2026					
+
 Budget Estimate								
 Task	Labor (in hours)	Cost per Hour ($)	Total Labor Cost ($)	Non-Labor Cost ($)	Total Cost ($)	15% Reserve ($)	Final Total Cost ($)	
 1. Project Management (PM)	500	50	25000	10000	35000	5250	40250	
@@ -93,7 +94,7 @@ Task	Labor (in hours)	Cost per Hour ($)	Total Labor Cost ($)	Non-Labor Cost ($)	
 - 7.2 Issue Resolution and Support	100	30	3000	2000	5000	750	5750	
 Total	4150		417400	210000	627400	94110	721510	
 
-####Team Contract
+#### Team Contract
 
-#References
+# References
 None
