@@ -33,6 +33,7 @@ Technical Issues: After first launching the app, there may be bugs and security 
 
 
 ## Budget, Scope, & Time estimates
+# Scope & Time 
 | Task                                      | Time Estimate (hrs) | Start Date  | End Date    |
 |-------------------------------------------|---------------------|------------|------------|
 | **1. Project Management (PM)**            | 500                 | 02/05/2025  | 04/21/2025  |
@@ -62,6 +63,39 @@ Technical Issues: After first launching the app, there may be bugs and security 
 | **7. Post-Implementation**                | 170                 | 05/06/2026  | 07/06/2026  |
 | - 7.1 Performance Monitoring              | 70                  | 05/06/2026  | 06/08/2026  |
 | - 7.2 Issue Resolution & Support          | 100                 | 06/09/2026  | 07/06/2026  |
+
+# Budget Estimate
+| Task                                      | Labor (hrs) | Cost/hr ($) | Total Labor ($) | Non-Labor ($) | Total Cost ($) | 15% Reserve ($) | Final Cost ($) |
+|-------------------------------------------|------------|------------|----------------|--------------|--------------|----------------|---------------|
+| **1. Project Management (PM)**            | 500        | 50         | 25000          | 10000        | 35000        | 5250           | 40250         |
+| - 1.1 Project Initiation and Planning     | 200        | 50         | 10000          | 2500         | 12500        | 1875           | 14375         |
+| - 1.2 Risk Management                     | 100        | 50         | 5000           | 1500         | 6500         | 975            | 7475          |
+| - 1.3 Stakeholder Communication           | 100        | 50         | 5000           | 2500         | 7500         | 1125           | 8625          |
+| - 1.4 Project Tracking and Reporting      | 100        | 50         | 5000           | 3500         | 8500         | 1275           | 9775          |
+| **2. Requirements Analysis and Planning** | 600        | 40         | 24000          | 12500        | 36500        | 5475           | 41975         |
+| - 2.1 Gather Requirements                 | 175        | 40         | 7000           | 2000         | 9000         | 1350           | 10350         |
+| - 2.2 Define System Features              | 225        | 40         | 9000           | 4000         | 13000        | 1950           | 14950         |
+| - 2.3 Document Data Storage               | 200        | 40         | 8000           | 6500         | 14500        | 2175           | 16675         |
+| **3. System Design and Architecture**     | 850        | 55         | 46750          | 17500        | 64250        | 9637.5         | 73887.5       |
+| - 3.1 Database Design                     | 300        | 55         | 16500          | 5000         | 21500        | 3225           | 24725         |
+| - 3.2 UI Design                           | 250        | 55         | 13750          | 6000         | 19750        | 2962.5         | 22712.5       |
+| - 3.3 Reporting Functionality             | 150        | 55         | 8250           | 4000         | 12250        | 1837.5         | 14087.5       |
+| - 3.4 Security & Compliance Planning      | 150        | 55         | 8250           | 2500         | 10750        | 1612.5         | 12362.5       |
+| **4. System Development**                 | 1300       | 60         | 78000          | 40000        | 118000       | 17700          | 135700        |
+| - 4.1 Front-end Development               | 500        | 60         | 30000          | 10000        | 40000        | 6000           | 46000         |
+| - 4.2 Back-end Development                | 500        | 60         | 30000          | 15000        | 45000        | 6750           | 51750         |
+| - 4.3 Database Implementation             | 300        | 60         | 18000          | 15000        | 33000        | 4950           | 37950         |
+| **5. Deployment and Training**            | 430        | 45         | 19350          | 12000        | 31350        | 4702.5         | 36052.5       |
+| - 5.1 Deployment Execution                | 180        | 45         | 8100           | 4000         | 12100        | 1815           | 13915         |
+| - 5.2 End-user Training                   | 250        | 45         | 11250          | 8000         | 19250        | 2887.5         | 22137.5       |
+| **6. Documentation and Transfer**         | 300        | 35         | 10500          | 8000         | 18500        | 2775           | 21275         |
+| - 6.1 System Documentation                | 150        | 35         | 5250           | 5000         | 10250        | 1537.5         | 11787.5       |
+| - 6.2 Knowledge Transfer                  | 150        | 35         | 5250           | 3000         | 8250         | 1237.5         | 9487.5        |
+| **7. Post-Implementation**                | 170        | 30         | 5100           | 5000         | 10100        | 1515           | 11615         |
+| - 7.1 Performance Monitoring              | 70         | 30         | 2100           | 3000         | 5100         | 765            | 5865          |
+| - 7.2 Issue Resolution & Support          | 100        | 30         | 3000           | 2000         | 5000         | 750            | 5750          |
+| **Total**                                  | 4150       | -          | 417400         | 210000       | 627400       | 94110          | 721510        |
+
 
 
 
