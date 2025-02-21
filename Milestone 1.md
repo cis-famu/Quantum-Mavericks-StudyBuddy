@@ -1,4 +1,4 @@
-Milestone 1
+# Milestone 1
 Table of Contents
 Project Charter
 SWOT Analysis
