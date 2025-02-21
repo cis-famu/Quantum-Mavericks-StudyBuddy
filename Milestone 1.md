@@ -33,7 +33,7 @@ Technical Issues: After first launching the app, there may be bugs and security 
 
 
 ## Budget, Scope, & Time estimates
-# Scope & Time 
+## Scope & Time 
 | Task                                      | Time Estimate (hrs) | Start Date  | End Date    |
 |-------------------------------------------|---------------------|------------|------------|
 | **1. Project Management (PM)**            | 500                 | 02/05/2025  | 04/21/2025  |
@@ -64,7 +64,7 @@ Technical Issues: After first launching the app, there may be bugs and security 
 | - 7.1 Performance Monitoring              | 70                  | 05/06/2026  | 06/08/2026  |
 | - 7.2 Issue Resolution & Support          | 100                 | 06/09/2026  | 07/06/2026  |
 
-# Budget Estimate
+## Budget Estimate
 | Task                                      | Labor (hrs) | Cost/hr ($) | Total Labor ($) | Non-Labor ($) | Total Cost ($) | 15% Reserve ($) | Final Cost ($) |
 |-------------------------------------------|------------|------------|----------------|--------------|--------------|----------------|---------------|
 | **1. Project Management (PM)**            | 500        | 50         | 25000          | 10000        | 35000        | 5250           | 40250         |
