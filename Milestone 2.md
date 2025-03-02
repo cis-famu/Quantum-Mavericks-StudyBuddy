@@ -8,6 +8,7 @@
 6. [API Descriptions](#api-descriptions)
 
 ## Work Breakdown Structure
+[Download Excel File](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/blob/main/Milestone2.xlsx?raw=true)
 
 ## Gantt Chart  & Network Diagram
 
