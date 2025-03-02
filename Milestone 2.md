@@ -48,6 +48,11 @@
 
 ## Gantt Chart  & Network Diagram
 
+![Gantt Chart](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/raw/main/wbs%20detailed%20table.png)
+
+[Downloadable Project Management File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/raw/main/WBSChart.mpp)
+
+
 ## Detailed Requirements Document
 ## Fully Dressed-Use Cases
 ## Research on other systems
