@@ -6,7 +6,87 @@
 4. [Team Contract](#team-contract)
 5. [References](#references)
 
-Project Charter
+## Project Charter
+          	
+1. General Project Information
+Project Name: 	StudyBuddy: The Ultimate Study Companion 
+Executive Sponsors: 	Interim Chair Jon deGoicoechea
+Department Sponsor: 	Dr. Xavier Caddle
+Impact of project:	StudyBuddy enhances student productivity, improves time management, and boosts academic performance through AI-driven personalized study planning and assignment tracking. 
+2. Project Team
+	Name	Department	Telephone	E-mail
+Project Manager:	Taylor Sharperson	Computer Information Systems	973-223-7834	taylor1.sharperson@famu.edu
+
+Team Members:  				
+	Lleyton Leonard	Computer Science	678-428-6700	lleyton1.leonard@famu.edu
+
+	Mekhi Green	Computer Science	914-426-8004	mekhi1.green@famu.edu
+				
+3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)
+Students, Educators (Professors, Instructors, Advisors), University Administrators
+IT & LMS (Learning Management System) Teams, Government & Education Policy Makers, 
+Government & Education Policy Makers, Student Wellness Organizations, Educational Technology Companies
+AI Developers & Data Analysts
+4. Project Scope Statement
+Project Purpose / Business Justification Describe the business need this project addresses
+To develop an high-quality study management tool that enhances time management, tracks academic progress, and optimizes study habits through personalized schedules and assignment integration. 
+Objectives (in business terms) Describe the measurable outcomes of the project, e.g., reduce cost by xxxx or increase quality to yyyy
+1.	Increase student productivity by at least 30%, measured through tracked study hours and task completion rates
+2.	Reduce missed assignment deadlines by 40%, through automated reminders and assignment tracking
+3.	Improve academic performance by 15%, based on study recommendation and performance insights
+Deliverables List the high-level “products” to be created (e.g., improved xxxx process, employee manual on yyyy)
+1.	Database Schema & System Architecture Design - March 1, 2025
+2.	Study Recommendation Model and AI Algorithm Outline - March 15, 2025
+3.	Initial UI Prototypes - March 30, 2025
+4.	Integration Plan for LMS (Canvas API Research) - April 10, 2025
+5.	Finalized Project Plan & Development Roadmap - April 25, 2025
+Scope List what the project will and will not address (e.g., this project addresses units that report into the Office of Executive Vice President.  Units that report into the Provosts Office are not included)  
+The project will address the need for a study management tool to help students optimize their time, track assignments, and improve academic performance. 
+-	Develop an AI-driven study schedule based on user habits and academic workload
+-	Integrate assignment tracking with Learning Management Systems (e.g, Canvas) for automatic updates
+-	Provide performance insights and study recommendations to enhance productivity and learning outcomes
+
+The project will not address broader institutional academic management or place existing LMS platforms
+-	Will not function as a full LMS or replace platforms like Canvas or Blackboard (e.g, include notes, assignment submission locations)
+-	Will not handle official student grading or professor-specific course management tasks
+-	Will not facilitate direct communication between students and professors within the platform
+Project Milestones Propose start and end dates for Project Phases (e.g., Inception, Planning, Construction, Delivery) and other major milestones
+Inception (01/06/2025 - 02/15/2025), Planning (02/16/2025 - 04/25/2025), Construction (04/25/2025 - 11/15/2025), Delivery (11/16/2025 - 12/05/2025) 
+Major Known Risks (including significant Assumptions) Identify obstacles that may cause the project to fail.   
+Risk                                                                                                               Risk Rating (High, Med, Low)
+LMS Integration Challenges (API Restrictions)                                             High
+AI Accuracy & Effectiveness                                                                          Medium
+Time Constraints                                                                                            High
+User Adoption & Engagement                                                                        Medium
+Technical Scalability                                                                                       Low
+Constraints List any conditions that may limit the project team’s options with respect to resources, personnel, or schedule (e.g., predetermined budget or project end date, limit on number of staff that may be assigned to the project).
+*	Fixed Timeline - The project must be fully outlined by April 25, 2025, and fully developed and implemented by December 5, 2025, in alignment with course schedule
+*	Limited Team Size - The project team consists of four members, restricting workload distribution and available development capacity
+*	Resource Availability - Access to AI development tools, LMS APIs, and cloud storage may be limited or require approval from external entities
+*	Skillset Limitations - The team may have limited expertise in AI development, API integration, or full-stack system implementation, requiring learning time
+*	Testing & User Feedback  - Student adoption and testing may be limited due to time constraints or difficulty recruiting test users before the final deployment
+External Dependencies Will project success depend on coordination of efforts between the project team and one or more other individuals or groups? Has everyone involved agreed to this interaction?
+*	LMS Integration - The project depends on the availability and accessibility of Canvas or other LMS APIs for assignment tracking and schedule integration. Any restrictions or lack of API access could impact functionality
+*	University IT Policies & Data Access - If integration with the university systems is required, project success depends on compliance with institutional IT policies and obtaining necessary permissions.
+*	AI Model Development & Training Data - The effectiveness of AI-driven study recommendations relies on access to sufficient user interactions data, which may be limited during initial development
+*	Potential Faculty/Advisor Input - Educators and academic advisors may provide insights for system reports and recommendations. Their involvement is not guaranteed, which could impact report accuracy
+5. Communication Strategy (specify how the project manager will communicate to the Executive Sponsor, Project Team members and Stakeholders, e.g., frequency of status reports, frequency of Project Team meetings, etc.
+*	Project Manager Communication
+-	Weekly team meetings will be held to discuss progress, challenges, and next steps
+-	Biweekly status reports will be discussed with Executive Sponsor to provide key project updates
+-	Monthly progress summaries will be shared with between group and sponsors
+6. Sign-off
+	Name	Signature	Date (MM/DD/YYYY)
+Executive Sponsor			
+Department Sponsor			
+Project Manager	Taylor Sharperson	Taylor Sharperson	02/21/2025
+7.  Notes
+*	Project Scope is Subject to Refinement - Features and integrations may be adjusted based on feasibility, technical constraints, or stakeholder feedback
+*	User Adoption is Key to Success - The effectiveness of StudyBuddy depends on active student engagement, requiring strategies to encourage consistent use
+*	Risk Management & Issue Resolution - Regular assessments of risks and technical challenges will be conducted to mitigate potential roadblocks
+
+![image](https://github.com/user-attachments/assets/b8419fc5-41de-40cd-8bc3-786c0f0d76be)
+
 
 
 
