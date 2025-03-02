@@ -9,6 +9,8 @@
 
 ## Work Breakdown Structure
 [Download Excel File](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/raw/main/Milestone2.xlsx)
+[View CSV Data](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/blob/main/Milestone2.csv)
+
 
 ## Gantt Chart  & Network Diagram
 
