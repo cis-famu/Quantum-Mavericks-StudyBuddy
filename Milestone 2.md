@@ -8,8 +8,42 @@
 6. [API Descriptions](#api-descriptions)
 
 ## Work Breakdown Structure
-[Download Excel File](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/raw/main/Milestone2.xlsx)
-[View CSV Data](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/blob/main/Milestone2.csv)
+# Work Breakdown Structure
+
+| Task ID | Task Name | Duration (hours) | Start Date | Finish Date | Predecessors |
+|---------|------------|-----------------|------------|-------------|--------------|
+| 1 | Project Initiation | 8 | 02/05/2025 | 02/06/2025 | - |
+| 1.1 | Define Project Scope and Objectives | 4 | 02/05/2025 | 02/05/2025 | 1 |
+| 1.2 | Identify Project Stakeholders | 4 | 02/06/2025 | 02/06/2025 | 1 |
+| 2 | Requirements Gathering Phase | 40 | 02/07/2025 | 02/13/2025 | 1.1, 1.2 |
+| 2.1 | Define Data Collection Methodologies | 16 | 02/07/2025 | 02/09/2025 | 2 |
+| 2.1.1 | Conduct Interviews with Stakeholders | 8 | 02/07/2025 | 02/08/2025 | 2.1 |
+| 2.1.2 | Collect Survey Responses | 8 | 02/09/2025 | 02/09/2025 | 2.1 |
+| 2.2 | Analyze Legal and Compliance Requirements | 12 | 02/10/2025 | 02/11/2025 | 2.1, 2.1.2 |
+| 2.2.1 | Review Privacy Regulations | 6 | 02/10/2025 | 02/10/2025 | 2.2 |
+| 2.2.2 | Review Security Standards | 6 | 02/11/2025 | 02/11/2025 | 2.2 |
+| 3 | Requirements Analysis and Documentation | 30 | 02/14/2025 | 02/20/2025 | 2.2.2 |
+| 3.1 | Analyze Stakeholder Input | 12 | 02/14/2025 | 02/16/2025 | 3 |
+| 3.1.1 | Analyze Interview Data | 6 | 02/14/2025 | 02/15/2025 | 3.1 |
+| 3.1.2 | Analyze Survey Data | 6 | 02/16/2025 | 02/16/2025 | 3.1 |
+| 3.2 | Document Functional Requirements | 18 | 02/17/2025 | 02/20/2025 | 3.1.1, 3.1.2 |
+| 4 | Database Design and Implementation | 50 | 02/21/2025 | 03/02/2025 | 3.2 |
+| 4.1 | Define Database Schema | 20 | 02/21/2025 | 02/25/2025 | 4 |
+| 4.1.1 | Define Tables and Relationships | 12 | 02/21/2025 | 02/23/2025 | 4.1 |
+| 4.1.2 | Define Data Entry Rules | 8 | 02/24/2025 | 02/25/2025 | 4.1 |
+| 4.2 | Database Implementation | 30 | 02/26/2025 | 03/02/2025 | 4.1.1, 4.1.2 |
+| 4.2.1 | Create Database Tables | 16 | 02/26/2025 | 02/28/2025 | 4.2 |
+| 4.2.2 | Implement Data Entry Rules | 14 | 03/01/2025 | 03/02/2025 | 4.2 |
+| 5 | User Interface Design and Development | 70 | 03/03/2025 | 03/16/2025 | 4.2.2 |
+| 5.1 | Design User Interface Mockups | 30 | 03/03/2025 | 03/09/2025 | 5 |
+| 5.1.1 | Create Mockups for Main Pages | 18 | 03/03/2025 | 03/07/2025 | 5.1 |
+| 5.1.2 | Gather Feedback on Mockups | 12 | 03/08/2025 | 03/09/2025 | 5.1 |
+| 5.2 | Develop User Interface | 40 | 03/10/2025 | 03/16/2025 | 5.1.2 |
+| 5.2.1 | Implement Main Page UI | 24 | 03/10/2025 | 03/14/2025 | 5.2 |
+| 5.2.2 | Implement Feedback-Driven Revisions | 16 | 03/15/2025 | 03/16/2025 | 5.2.1 |
+
+[Download Work Breakdown Structure](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/raw/main/Milestone2.xlsx)
+
 
 
 ## Gantt Chart  & Network Diagram
