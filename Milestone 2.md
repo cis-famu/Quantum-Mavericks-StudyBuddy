@@ -8,7 +8,9 @@
 6. [API Descriptions](#api-descriptions)
 
 ## Work Breakdown Structure
+
 ## Gantt Chart  & Network Diagram
+
 ## Detailed Requirements Document
 ## Fully Dressed-Use Cases
 ## Research on other systems
