@@ -81,13 +81,11 @@
 | 15 | Project Closure and Reporting | 20 | 05/22/2025 | 05/26/2025 | 14.2 |
 | 15.1 | Finalize Project Documentation | 10 | 05/22/2025 | 05/24/2025 | 15 |
 | 15.2 | Generate Project Report | 10 | 05/25/2025 | 05/26/2025 | 15.1 |
+
 [Download Work Breakdown Structure](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/raw/main/Milestone2.xlsx)
 
 ## Gantt Chart  & Network Diagram
-
-![Gantt Chart](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/raw/main/wbs%20detailed%20table.png)
 [Downloadable Project Management File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/raw/main/WBSChart.mpp)
-
 
 ## Detailed Requirements Document
 ## Fully Dressed-Use Cases
