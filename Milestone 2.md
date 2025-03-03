@@ -88,6 +88,9 @@
 [Downloadable Project Management File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/raw/main/WBSChart.mpp)
 
 ## Detailed Requirements Document
+[Downloadable Detailed Requirements File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Detailed%20Requirements%20Document.pdf)
 ## Fully Dressed-Use Cases
 ## Research on other systems
+[Downloadable Information on Relatable Platforms](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Relatable%20Platforms.pdf)
 ## API Descriptions
+[Downloadable API Descriptions File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/API%20Descriptions.pdf)
