@@ -180,5 +180,6 @@ Technical Issues: After first launching the app, there may be bugs and security 
 
 
 #### Team Contract
+[Downloadable Quantum Mavericks Team Contract](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Quantum%20Mavericks%20Team%20Contract.pdf)
 ### References
 None
