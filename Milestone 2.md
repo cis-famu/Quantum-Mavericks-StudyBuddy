@@ -3,7 +3,7 @@
 1. [Work Breakdown Structure](#work-breakdown-structure)
 2. [Gantt Chart  & Network Diagram](#gantt-chart-and-network-diagram)
 3. [Detailed Requirements Document](#detailed-requirements-document)
-4. [Fully Dressed-Use Cases](##fully-dresses-use-cases)
+4. [Fully Dressed-Use Cases](#fully-dresses-use-cases)
 5. [Research on other systems](#research-on-other-systems)
 6. [API Descriptions](#api-descriptions)
 
@@ -84,14 +84,18 @@
 
 [Download Work Breakdown Structure](https://github.com/taylorsharperson/Quantum-Mavericks-StudyBuddy/raw/main/Milestone2.xlsx)
 
-## Gantt Chart  & Network Diagram
+## Gantt Chart & Network Diagram
+# Gantt Chart & Network Diagram
+
 [Downloadable Project Management File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/raw/main/WBSChart.mpp)
 
 ## Detailed Requirements Document
+# Detailed Requirements Document
 [Downloadable Detailed Requirements File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Detailed%20Requirements%20Document.pdf)
-## Fully Dressed-Use Cases
+
+# Fully Dressed-Use Cases
 [Downloadable Use Cases File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/StudyBuddy%20Use%20Cases.pdf)
-## Research on other systems
+# Research on other systems
 [Downloadable Information on Relatable Platforms](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Relatable%20Platforms.pdf)
-## API Descriptions
+# API Descriptions
 [Downloadable API Descriptions File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/API%20Descriptions.pdf)
