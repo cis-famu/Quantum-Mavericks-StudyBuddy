@@ -90,6 +90,7 @@
 ## Detailed Requirements Document
 [Downloadable Detailed Requirements File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Detailed%20Requirements%20Document.pdf)
 ## Fully Dressed-Use Cases
+[Downloadable Use Cases File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/StudyBuddy%20Use%20Cases.pdf)
 ## Research on other systems
 [Downloadable Information on Relatable Platforms](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Relatable%20Platforms.pdf)
 ## API Descriptions
