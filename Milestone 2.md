@@ -3,7 +3,7 @@
 1. [Work Breakdown Structure](#work-breakdown-structure)
 2. [Gantt Chart  & Network Diagram](#gantt-chart-and-network-diagram)
 3. [Detailed Requirements Document](#detailed-requirements-document)
-4. [Fully Dressed-Use Cases](#fully-dresses-use-cases)
+4. [Fully Dressed-Use Cases](##fully-dresses-use-cases)
 5. [Research on other systems](#research-on-other-systems)
 6. [API Descriptions](#api-descriptions)
 
