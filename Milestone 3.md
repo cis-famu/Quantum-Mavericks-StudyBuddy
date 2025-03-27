@@ -1,4 +1,7 @@
 # Milestone 3
+
+[//]: # (Feel free to add all of your deliverables here whenever they're completed) 
+
 **Table of Contents**
 1. [Data Flow Diagram](#data-flow-diagram)
 2. [Request for Quote](#request-for-quote)
