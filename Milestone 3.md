@@ -33,4 +33,4 @@
 # Marketing Material
 
 # Wireframe
-[Downloadable Wireframe](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/StudyBuddy Wireframe.png)
+[Downloadable Wireframe](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/StudyBuddyWireframe.png)
