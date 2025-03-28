@@ -8,6 +8,7 @@
 3. [Style Guide](#style-guide)
 4. [Interactive Wireframe](#interactive-wireframe)
 5. [Marketing Material](#marketing-material)
+6. [Wireframe](#wireframe)
 
 # Data Flow Diagram
 [Downloadable DFD](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/DFD.pdf)
@@ -30,3 +31,6 @@
 
 
 # Marketing Material
+
+# Wireframe
+[Downloadable Wireframe](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/StudyBuddy Wireframe.png)
