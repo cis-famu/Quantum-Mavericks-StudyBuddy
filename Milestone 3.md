@@ -10,6 +10,7 @@
 5. [Marketing Material](#marketing-material)
 
 # Data Flow Diagram
+[Downloadable Quantum Mavericks RFQ](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/DFD.pdf)
 
 
 
