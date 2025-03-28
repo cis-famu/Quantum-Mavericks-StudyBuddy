@@ -15,7 +15,7 @@
 
 
 # Request for Quote
-Downloadable Quantum Mavericks RFQ (https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum%20Mavericks%20RFQ.pdf)
+[Downloadable Quantum Mavericks RFQ] (https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum%20Mavericks%20RFQ.pdf)
 
 
 # Style Guide
