@@ -19,7 +19,7 @@
 
 
 # Style Guide
-
+[Downloadable Style Guide](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/StudyBuddyStyleGuide.pptx)
 
 
 
