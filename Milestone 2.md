@@ -174,6 +174,117 @@
 
 # Research on other systems
 [Downloadable Information on Relatable Platforms](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Relatable%20Platforms.pdf)
+  
+---
+
+**StudyBuddy** is an AI-powered study management tool designed to help college students optimize time management, track assignments, and improve academic performance through personalized study schedules, assignment tracking, and AI-driven study recommendations. The platform plans to integrate several student-catered systems into one manageable and user-friendly interface that helps students succeed in their academic careers.
+
+### Learning Management Systems (LMS)
+
+StudyBuddy will implement LMS features similar to popular platforms to support assignment tracking, coursework management, and professor interaction.
+
+- **Canvas**: A widely used LMS that allows assignment tracking, grading, and scheduling  
+- **Blackboard**: Offers assignment submissions, discussion boards, and academic scheduling  
+- **Moodle**: An open-source LMS used by universities for course and assignment management  
+
+> While these platforms effectively manage assignments and schedules, they lack AI-based study recommendations and detailed study tracking like StudyBuddy.
+
+---
+
+### AI-Powered Study Assistants
+
+StudyBuddy will feature a user-friendly AI assistant to help students optimize their study habits, drawing inspiration from popular tools:
+
+- **Quizlet**: Offers AI-generated flashcards and personalized practice tests  
+- **Grammarly**: Provides AI-driven writing suggestions and academic feedback  
+- **Cram**: Focuses on memorization and adaptive learning strategies  
+
+> StudyBuddy enhances these concepts by combining content memorization, personalized schedules, and academic time management into one platform.
+
+---
+
+### Task Management & Scheduling
+
+StudyBuddy is also centered around improving productivity and time management, taking inspiration from general task management tools:
+
+- **Google Calendar**: A basic scheduling platform with reminders, not designed for academic-specific needs  
+- **Notion**: A flexible planning tool with a complex UI and limited student-focused features  
+- **Todoist**: Task manager with reminders and due dates, but lacks LMS integration and AI support  
+
+> These platforms assist with general organization but do not provide AI-driven recommendations or sync with academic systems.
+
+---
+
+### Learning & Tutoring Platforms
+
+StudyBuddy also draws inspiration from educational platforms that support learning and adaptive tutoring:
+
+- **Khan Academy**: Offers personalized learning paths based on progress  
+- **Duolingo**: Provides adaptive learning for language acquisition  
+- **Coursera**: Recommends courses based on learner preferences  
+
+> Unlike these platforms, StudyBuddy is focused on **personalized study management**, **LMS integration**, and **real-time academic tracking**.
+
+---
+
+**Conclusion**:  
+StudyBuddy aims to unify and extend the best features of LMS platforms, AI assistants, task managers, and educational tools — creating a one-stop solution tailored to the unique needs of college students.
 
 # API Descriptions
 [Downloadable API Descriptions File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/API%20Descriptions.pdf)
+
+I. API Descriptions  
+### Learning Management System (LMS) APIs  
+Automatically import assignments and deadlines into the platform; track grade progress and notify students of changes  
+
+- Endpoint: /api/v1/courses/{course_id}/assignments  
+  Functionality  
+  - Retrieves the list of assignments for specific course  
+  - Fetch due dates and submission statuses  
+  - Pull grade data for performance tracking  
+
+- Endpoint: /api/v1/users/self/enrollments  
+  Functionality  
+  - Fetch enrolled courses for a student  
+  - Sync class schedule and course information  
+
+
+### II. AI & Machine Learning APIs  
+OpenAI API: Analyze study habits and recommend optimal study sessions; suggest topics to review based on past performance  
+
+- Endpoint: /v1/completions  
+  Functionality  
+  - Generate AI-driven study recommendations based on user input  
+  - Suggest focus areas based on previous study sessions and grades  
+
+
+### III. Calendar & Scheduling APIs  
+Allow users to sync their study schedules with Google Calendar; Send push notifications for upcoming deadlines and sessions  
+
+- Endpoint: https://www.googleapis.com/calendar/v3/calendars/{calendarId}/events  
+  Functionality  
+  - Add study sessions and assignment deadlines to personal calendar  
+  - Send reminders for upcoming study sessions  
+
+
+### IV. User Authentication & Security APIs  
+Enable single sign-on (SSO) with university credentials; ensure secure, role-based access for different user types  
+
+- Endpoint: /OAuth/token  
+  Functionality  
+  - Secure log in using university credentials or third-party authentication (Google, Microsoft, etc)  
+  - Ensure role-based access control (students, professors, administrators)  
+
+
+### V. Notification & Messaging APIs  
+Notify students about assignment updates and study reminders; send alerts for recommended study topics based on AI insights  
+
+- Endpoint: /2010-04-01/Accounts/{AccountSid}/Messages.json  
+  Functionality  
+  - Send SMS reminders for due dates and study sessions  
+  - Push AI-generated study tips to users  
+
+- Endpoint: https://fcm.googleapis.com/fcm/send  
+  Functionality  
+  - Send real-time push notifications to mobile and web users
+
