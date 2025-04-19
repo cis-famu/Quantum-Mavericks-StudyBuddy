@@ -88,6 +88,141 @@
 
 # Detailed Requirements Document
 [Downloadable Detailed Requirements File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Detailed%20Requirements%20Document.pdf)
+1 - Quantum Mavericks
+Detailed Requirements Document
+Functional Requirements
+I. Search & Browse
+-
+Allows students to search for specific classes to view future assignments
+-
+Enables searching for assignments by title for quick access
+-
+It provides a browsing feature to view each class with its respective assignments
+-
+Includes a schedule browsing function to check upcoming deadlines, study
+sessions, and important dates
+II. User Interactions
+-
+Students can add assignments manually or through LMS synchronization
+-
+Allows students to set study sessions for quizzes, tests, or general review
+-
+Users can modify schedules dynamically to adjust for workload changes
+-
+Supports study session reminders based on upcoming deadlines and user
+preferences
+III. System Updating
+-
+AI generates personalized study recommendations based on past performance and
+engagement.
+-
+Assignment tracking syncs automatically with the LMS to ensure real-time
+updates
+-
+Due dates and submissions are updated in real-time as changes occur in the LMS
+-
+Teacher recommendations and feedback are pushed to student dashboards
+IV . Permissions & Role-Based Access Control
+-
+Students can view assignments, study schedules, AI-generated recommendations,
+and grades
+-
+Professors can push study recommendations and monitor aggregated study trends
+-
+Administrators can update system content, manage user roles, and push routine
+platform updates
+-
+Role-based access ensures data privacy and restricts certain features based on the
+user type
+V . Data Management
+-
+Study history and submission records are stored in a structured and accessible
+format
+-
+Tracks assignment completion status seamlessly upon submission
+-
+Maintains a performance tracking system to show grade trends over time
+-
+Ensures secure storage of user data with controlled access
+VI. Integration Requirements
+-
+Canvas LMS integration ensures real-time syncing of assignments, due dates, and
+grades
+-
+API interactions facilitate seamless communication between the system and the
+database
+2 - Quantum Mavericks
+-
+-
+-
+-
+-
+-
+The system supports third-party API authentication for secure data access
+Ensures that updates in the LMS are reflected immediately within the
+StudyBuddy platform
+Non-functional Requirements
+I. Performance & Scalability
+The system should support a substantial amount of concurrent users without
+performance degradation
+The response time for retrieving assignments, schedules, and AI
+recommendations should be under a certain amount of seconds
+The system must be able to scale dynamically to accommodate increased user
+traffic
+II. Security & Privacy
+-
+User data, including study history and grades, must be encrypted at rest and in
+transit
+Role-based access control should be implemented to restrict unauthorized access
+to sensitive data
+-
+The platform must comply with FERPA regulations for handling student data
+-
+Passwords must be stored securely using encryption methods
+III. Usability & UI
+-
+The platform should have an intuitive and easy-to-use UI that requires minimal
+training
+Users should be able to navigate between features within 3 clicks
+The interface should be responsive and accessible across various environments
+The system must provide clear feedback and confirmations for user actions
+(assignments added, schedule updates)
+IV . Maintainability & Support
+-
+The system codebase must be modular and well-documented for easy
+maintenance
+System updates should be deployed with minimal downtime, ideally through
+rolling updates
+Logs should be maintained for error tracking and debugging, with automated
+alerts for critical failures
+The system should allow for easy integration of new AI models for improved
+recommendations
+V . Availability & Reliability
+-
+The system should have a high percentage uptime, excluding scheduled
+maintenance
+Automatic failover mechanisms must be in place to handle server failures without
+significant downtime
+-
+-
+-
+-
+-
+-
+-
+3 - Quantum Mavericks
+-
+A backup system should be in place to restore lost or corrupted data within a
+reasonable time
+VI. Compatibility & Integration
+-
+The platform must be compatible with major web browsers (Chrome, Firefox,
+Safari, Edge)
+-
+StudyBuddy should seamlessly integrate with LMS and future LMS platforms
+-
+The system should support OAuth authentication for secure third-party
+integrations
 
 # Fully Dressed-Use Cases and Use Case Diagram
 [Downloadable Use Cases File](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/StudyBuddy%20Use%20Cases.pdf)
