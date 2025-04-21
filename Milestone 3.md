@@ -27,10 +27,11 @@
 
 # Interactive Wireframe
 
-
+https://www.figma.com/design/kxJyuj6nepSa64ME0fTqEK/StudyBuddy-Wireframe?node-id=0-1&t=QjY1CgduQEkSJEqo-1 
 
 
 # Marketing Material
+Frances was to complete this part
 
 # Wireframe
 [Downloadable Wireframe](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/StudyBuddyWireframe.png)
