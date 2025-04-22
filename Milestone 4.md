@@ -14,10 +14,10 @@
 
 ## Risk Register  
  
----
+[Downloadable Risk Register](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Study%20Buddy%20Risk%20Register.xlsx) 
 
 ## Collection Relationship Diagram  
-- [Dowloadable Collection Relationship Diagram](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum_Mavericks_Relationship_Diagram.pdf)
+- [Downloadable Collection Relationship Diagram](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum_Mavericks_Relationship_Diagram.pdf)
 ---
 
 ## Data Dictionary  
