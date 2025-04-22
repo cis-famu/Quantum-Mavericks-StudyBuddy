@@ -17,11 +17,11 @@
 ---
 
 ## Collection Relationship Diagram  
-**[Dowloadable Collection Relationship Diagram](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum_Mavericks_Relationship_Diagram.pdf)
-**---
+- [Dowloadable Collection Relationship Diagram](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum_Mavericks_Relationship_Diagram.pdf)
+---
 
 ## Data Dictionary  
-**[Downloadable Data Dictionary](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum%20Mavericks%20Data%20Dictionary.pdf)
+- [Downloadable Data Dictionary](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum%20Mavericks%20Data%20Dictionary.pdf)
 **---
 
 ## Lessons Learned  
