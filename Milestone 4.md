@@ -21,7 +21,7 @@
 ---
 
 ## Data Dictionary  
- 
+[Downloadable Data Dictionary](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/Quantum%20Mavericks%20Data%20Dictionary.pdf)
 ---
 
 ## Lessons Learned  
