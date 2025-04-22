@@ -29,7 +29,7 @@
 ---
 
 ## Poster Presentation  
- [Downloadable Poster Presentation](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/CIS Poster Template.pptx)
+[Downloadable Poster Presentation](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/CISPosterTemplate.pptx)
 
 ---
 
