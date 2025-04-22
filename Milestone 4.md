@@ -29,7 +29,7 @@
 ---
 
 ## Poster Presentation  
-[Watch the Pre-Recorded Presentation](https://youtu.be/uchni4di3Sw)
+ [Downloadable Poster Presentation](https://github.com/cis-famu/Quantum-Mavericks-StudyBuddy/blob/main/Documents/CIS Poster Template.pptx)
 
 ---
 
